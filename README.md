@@ -56,7 +56,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/logo-white.svg" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp; -->
-  <img src = "https://github.com/MartyC-137/SQL_Icons/blob/main/Snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/MartyC-137/SQL_Icons/blob/main/Snowflake.png" title="Snowflake" alt="Snowflake" width="100" height="40"/>&nbsp;
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/nugetsql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/git-bash.svg" title="Git-Bash" alt="Git-Bash" width="40" height="40"/>&nbsp;
