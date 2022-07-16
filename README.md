@@ -38,7 +38,7 @@
 
 <!-- - 🌱 I'm currently learning **Docker** and **CI/CD** -->
 
-- In my freetime I'm an avid mountain biker :mountain_biking_man: and carpenter :hammer:
+- In my freetime I'm an avid mountain biker :mountain_biking_man: and DIY'er :hammer:
 
 - Corgi dad :dog: and Star Trek nerd :astronaut:
 <!-- - 📫 **martin@palkovic.org**  -->
