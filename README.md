@@ -34,7 +34,7 @@
 ### :man_technologist: About Me :
 - I'm a data engineer in Canada :canada:
 
-- My favorite tools are **Snowflake** and **Python**
+- My favorite tools are **Snowflake**, **Python** and **Power BI**
 
 <!-- - 🌱 I'm currently learning **Docker** and **CI/CD** -->
 
