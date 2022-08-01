@@ -92,6 +92,5 @@
 - [Exploring use cases of machine learning in the geosciences](https://towardsdatascience.com/exploring-use-cases-of-machine-learning-in-the-geosciences-b72ea7aafe2?source=rss-6c29787b0cc8------2)
 - [Building a data dashboard for housing prices using Plotly-Dash in Python](https://towardsdatascience.com/building-a-data-dashboard-for-housing-prices-using-plotly-dash-in-python-7aca9c49592c?source=rss-6c29787b0cc8------2)
 - [Creating an interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a?source=rss-6c29787b0cc8------2)
-- [Estimating future snowfall in Denver, Colorado using machine learning in Python](https://towardsdatascience.com/estimating-future-snowfall-in-denver-colorado-using-machine-learning-in-python-ada88a531001?source=rss-6c29787b0cc8------2)
 <!-- BLOG-POST-LIST:END -->
           
