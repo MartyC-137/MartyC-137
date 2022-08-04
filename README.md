@@ -40,7 +40,7 @@
 
 - In my freetime I'm an avid mountain biker :mountain_biking_man: and DIY'er :hammer:
 
-- Corgi dad :dog: and Star Trek nerd :astronaut:
+- Corgi dad :dog:, soon to be human dad :baby: and Rick and Morty superfan :space_invader:
 <!-- - 📫 **martin@palkovic.org**  -->
 - [![Linkedin Badge](https://img.shields.io/badge/-Martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mpalkovic/)
 
