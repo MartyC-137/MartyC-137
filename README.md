@@ -34,16 +34,14 @@
 ### :man_technologist: About Me :
 - I'm a data engineer in Canada :canada:
 
-- My favorite tools are **Snowflake**, **Python** and **Power BI**
-
-<!-- - 🌱 I'm currently learning **Docker** and **CI/CD** -->
+- My favorite tools are **Snowflake** and **Python**
 
 - In my freetime I'm an avid mountain biker :mountain_biking_man: and DIY'er :hammer:
 
 - Huge Rick and Morty fan :space_invader:. I also enjoy video games :video_game: and board games :game_die: 
 
 - Corgi dad :dog: and soon to be human dad :baby:
-<!-- - 📫 **martin@palkovic.org**  -->
+
 - [![Linkedin Badge](https://img.shields.io/badge/-Martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mpalkovic/)
 
 - [![Resume Badge](https://img.shields.io/badge/-Resume-blue?style=flat&logo=Resume&logoColor=white)](https://my.visualcv.com/martin-palkovic/)
