@@ -16,9 +16,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="420"/>
 </div> -->
 
-<div id = "jetbrains" align="center">
+<!-- <div id = "jetbrains" align="center">
   <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="600" height="420"/>
-</div>
+</div> -->
 
 
 <!-- <div id = "programmer2 gif" align="center">
@@ -81,9 +81,9 @@
 ---
   
 ### :astonished: My Stats :  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartyC-137&theme=solarized-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartyC-137&theme=solarized-dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats) -->
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martyc-137&layout=compact&hide_border=true&theme=solarized-dark&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martyc-137&layout=compact&hide_border=true&theme=graywhite&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
