@@ -10,6 +10,9 @@
   <a href="https://medium.com/@martinp303">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
+  <a href="https://www.instagram.com/marty_p303/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 <!-- <div id = "programmer gif" align="center">
@@ -29,7 +32,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" height="420"/>
 </div> -->
 
----
+<!-- --- -->
 
 ### :man_technologist: About Me :
 - I'm a data engineer in Canada :canada:
@@ -93,4 +96,3 @@
 - [Building a data dashboard for housing prices using Plotly-Dash in Python](https://towardsdatascience.com/building-a-data-dashboard-for-housing-prices-using-plotly-dash-in-python-7aca9c49592c?source=rss-6c29787b0cc8------2)
 - [Creating an interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a?source=rss-6c29787b0cc8------2)
 <!-- BLOG-POST-LIST:END -->
-          
