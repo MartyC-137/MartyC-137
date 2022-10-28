@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/vi9ob0h5bKmUU/giphy.gif" width="420"/>
 </div>
 
-<h1 align="center">Howdy 👋</h1>
+<h1 align="center">Howdy 👋 I'm Martin!</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mpalkovic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
