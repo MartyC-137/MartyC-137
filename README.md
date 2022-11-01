@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/cchqAdzZXoQAAAAd/dashboard-excel.gif" width="420"/>
+  <img src="https://media.makeameme.org/created/if-you-could-695a66143b.jpg" width="420"/>
 </div>
 
 <h1 align="center"></h1>
