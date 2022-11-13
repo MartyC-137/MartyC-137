@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1400/0*4LVA02Twdg843LIX" width="420"/>
+  <img src="https://media.giphy.com/media/xT39DbK7o1MjKgVV7O/giphy.gif" width="420"/>
 </div>
 
 <h1 align="center"></h1>
@@ -40,10 +40,6 @@
 - My favorite tools are **Snowflake** and **Python**
 
 - In my freetime I'm an avid mountain biker :mountain_biking_man: and DIY'er :hammer:
-
-- Huge Rick and Morty fan :space_invader:. I also enjoy video games :video_game: and board games :game_die: 
-
-- Corgi dad :dog: and soon to be human dad :baby:
 
 - [![Linkedin Badge](https://img.shields.io/badge/-Martin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mpalkovic/)
 
