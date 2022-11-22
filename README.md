@@ -60,7 +60,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/git-bash.svg" title="Git-Bash" alt="Git-Bash" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker_Plain" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/PowerBI_yellow.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
