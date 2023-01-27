@@ -37,7 +37,7 @@
 ### :man_technologist: About Me :
 - I'm a data engineer in Canada :canada:
 
-- My favorite tools are **Snowflake** and **Python**
+- My favorite tools are **Snowflake**, **Python** and **dbt**
 
 - In my freetime I'm an avid mountain biker :mountain_biking_man: and DIY'er :hammer:
 
@@ -59,7 +59,8 @@
   <!-- <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/nugetsql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/git-bash.svg" title="Git-Bash" alt="Git-Bash" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
+  <img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" title="dbt" alt="dbt" width="100" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker_Plain" width="40" height="40"/>&nbsp; -->
