@@ -87,4 +87,5 @@
 - [Streams and Tasks workflow in Snowflake](https://martyc-137.github.io/blog/snowflake-streams-tasks/)
 - [Creating Python stored procedures in Snowflake](https://martyc-137.github.io/blog/python-storedprocedures-snowflake/)
 - [Backloading json data to Snowflake using Snowpark for Python](https://martyc-137.github.io/blog/snowpark-backload-api-data/)
+- [How to shorten large union queries in Snowflake](https://martyc-137.github.io/blog/shorten-union-queries/)
 <!-- BLOG-POST-LIST:END -->
