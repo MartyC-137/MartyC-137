@@ -84,7 +84,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Exploring use cases of machine learning in the geosciences](https://towardsdatascience.com/exploring-use-cases-of-machine-learning-in-the-geosciences-b72ea7aafe2?source=rss-6c29787b0cc8------2)
-- [Building a data dashboard for housing prices using Plotly-Dash in Python](https://towardsdatascience.com/building-a-data-dashboard-for-housing-prices-using-plotly-dash-in-python-7aca9c49592c?source=rss-6c29787b0cc8------2)
-- [Creating an interactive map of wildfire data using Folium in Python](https://towardsdatascience.com/creating-an-interactive-map-of-wildfire-data-using-folium-in-python-7d6373b6334a?source=rss-6c29787b0cc8------2)
+- [Streams and Tasks workflow in Snowflake](https://martyc-137.github.io/blog/snowflake-streams-tasks/)
+- [Creating Python stored procedures in Snowflake](https://martyc-137.github.io/blog/python-storedprocedures-snowflake/)
+- [Backloading json data to Snowflake using Snowpark for Python](https://martyc-137.github.io/blog/snowpark-backload-api-data/)
 <!-- BLOG-POST-LIST:END -->
