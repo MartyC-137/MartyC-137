@@ -84,7 +84,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dev Container for Data Engineering](https://martyc-137.github.io/blog/data-eng-devcontainer/)
+- [How I set up my Dev Container for Data Engineering](https://martyc-137.github.io/blog/data-eng-devcontainer/)
 - [Streams and Tasks workflow in Snowflake](https://martyc-137.github.io/blog/snowflake-streams-tasks/)
 - [Creating Python stored procedures in Snowflake](https://martyc-137.github.io/blog/python-storedprocedures-snowflake/)
 - [Backloading json data to Snowflake using Snowpark for Python](https://martyc-137.github.io/blog/snowpark-backload-api-data/)
