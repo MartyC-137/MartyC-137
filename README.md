@@ -56,19 +56,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" title="Snowflake" alt="Snowflake" width="150" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png" title="dbt" alt="dbt" width="100" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/nugetsql.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/git-bash.svg" title="Git-Bash" alt="Git-Bash" width="40" height="40"/>&nbsp;
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/PowerBI_yellow.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp; -->
-  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/MartyC-137/SQL_Icons/blob/main/Boomi_Logo_Icon_Navy.png" title="Boomi" alt="Boomi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/MartyC-137/SQL_Icons/blob/main/airflow.png" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp; -->
